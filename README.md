@@ -11,7 +11,7 @@ This project was evaluated as one of the best projects.
 - some JS efects;
 - Basics of PHP ( php include, requests, registration and login, php sesion, CRUD and more);
 - Basics of Ajax;
-- Basics of PHP admin;
+- Basics of PHP my admin;
 - sql scripts and much more.
 
 Unfortunately, Github pages doesnt support php, so live version doesnt work.
