@@ -3,7 +3,7 @@
 Representative Landing webpage. Fully responsive. It was made as my final project in Kaunas coding school, web bootcamp course.
 This project was evaluated as one of the best projects.
 
-What Have I learned:
+# What Have I learned:
 
 - css slider;
 - scss;
@@ -14,4 +14,4 @@ What Have I learned:
 - Basics of PHP admin;
 - sql scripts and much more.
 
-Live: https://wakadoodlis.github.io/Landing-page-php
+Unfortunately, Github pages doesnt support php, so live version doesnt work.
